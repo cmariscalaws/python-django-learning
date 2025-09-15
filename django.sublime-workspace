@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"t",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"open ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Install Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			"help",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/carlosmariscal/Repositories/python-django-learning"
+	],
+	"file_history":
+	[
+		"/Users/carlosmariscal/Repositories/python-practice/templates/unique_occurrences_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/unique_occurrences_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/substring_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/substring_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/two_pointers_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/sliding_window_dynamic_max_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/sliding_window_dynamic_min_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/sliding_window_dynamic_min_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/sliding_window_fixed_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/palindrone_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/palindrone_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/pair_sum_unsorted_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/find_middle_value_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/invert_binary_tree_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/linked_list_reversal_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/find_first_occurrence_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/find_first_occurrence_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/find_middle_value_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/breadth_first_search_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/insertion_sort_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/merge_sort_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/breadth_first_search_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/linked_list_reversal_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/merge_sort_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/binary_search_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/binary_search_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/answers/insertion_sort_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/depth_first_search_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/two_pointers/remove_duplicates_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/hash_maps_and_sets/unique_occurrences_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/templates/sliding_window_fixed_answer.py",
+		"/Users/carlosmariscal/.oh-my-zsh/README.md",
+		"/Users/carlosmariscal/.zshrc.pre-oh-my-zsh",
+		"/Users/carlosmariscal/.zshrc",
+		"/Users/carlosmariscal/.zprofile",
+		"/Users/carlosmariscal/Repositories/python-practice/binary_trees/invert_binary_tree_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/linked_lists/find_middle_value_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/sorting/bubble_sort_answer.py",
+		"/Users/carlosmariscal/Repositories/python-practice/sorting/insertion_sort_question.py",
+		"/Users/carlosmariscal/Repositories/python-practice/patterns/sliding_window_answer.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 286.0,
+		"history":
+		[
+		]
+	},
+	"output.Terminus 2":
+	{
+		"height": 400.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "django.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
