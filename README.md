@@ -6,7 +6,7 @@ Learning Django Framework
 ### Create virtual environment and activate it
 
 ```shell
-python3 -m venv env \
+python3 -m venv env
 source env/bin/activate 	
 ```
 
@@ -61,25 +61,46 @@ load_dotenv()
 
 3. add environment variables
 ```python
-	ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*"]
 
-	REST_FRAMEWORK = {
-	    "DEFAULT_AUTHENTIFICATION_CLASS": (
-	        "rest_framework_simplejwt.authentication.JWTAuthentication",
-	    ),
-	    "DEFAULT_PERMISSION_CLASSES": [
-	        "rest_framework.permissions.IsAuthenticated",
-	    ]
-	}
+REST_FRAMEWORK = {
+	"DEFAULT_AUTHENTIFICATION_CLASS": (
+		"rest_framework_simplejwt.authentication.JWTAuthentication",
+	),
+	"DEFAULT_PERMISSION_CLASSES": [
+		"rest_framework.permissions.IsAuthenticated",
+	]
+}
 
-	SIMPLE_JWT = {
-	    "ACCESS_TOKEN_LIFETIME": timedelta(minutes=30),
-	    "REFRESH_TOKEN_LIFETIME": timedelta(days=1),
-	}
+SIMPLE_JWT = {
+	"ACCESS_TOKEN_LIFETIME": timedelta(minutes=30),
+	"REFRESH_TOKEN_LIFETIME": timedelta(days=1),
+}
 ```
 
+4. add installed apps
 
+```python
+"api",
+"rest_framework",
+"corsheaders",
+```
 
+5. add middleware
+
+```python
+"corsheader.middleware.CorsMiddleware",
+
+```
+
+6. add variable to bottom of file
+
+```python
+CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOWS_CREDENTIALS = True
+```
+
+### Move requirements.txt to backend directory leaving only env and backend at root.
 
 
 
