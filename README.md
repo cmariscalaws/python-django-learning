@@ -41,7 +41,7 @@ django-admin startproject backend
 
 ```shell
 cd backend
-manage.py startapp api
+python3 manage.py startapp api
 ```
 
 ### Open and configure settings.py
@@ -89,7 +89,7 @@ SIMPLE_JWT = {
 5. add middleware
 
 ```python
-"corsheader.middleware.CorsMiddleware",
+"corsheaders.middleware.CorsMiddleware",
 
 ```
 
@@ -102,7 +102,26 @@ CORS_ALLOWS_CREDENTIALS = True
 
 ### Move requirements.txt to backend directory leaving only env and backend at root.
 
+```shell
+mv requirements.txt \backend
+```
 
+### Make changes to configure JWT Authenticate/Authorization (See commit history for changes)
 
+```shell
+ api/serializers.py
+ api/views.py 
+ backend/urls.py 
+```
 
+### Migrate to be able to connect to database
 
+```shell
+python manage.py makemigrations
+python manage.py migrate
+```
+
+### Run the application
+```shell
+python manage.py runserver
+```
