@@ -125,3 +125,8 @@ python manage.py migrate
 ```shell
 python manage.py runserver
 ```
+
+### Add custom api/models, api/serializers, api/views, api/urls
+### Migrate DB Changes
+### Add front-end
+
