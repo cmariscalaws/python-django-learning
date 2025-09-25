@@ -134,4 +134,10 @@ python manage.py runserver
 ### Add custom api/models, api/serializers, api/views, api/urls
 ### Migrate DB Changes
 ### Add front-end
+```shell
+npm create vite@latest frontend -- --template react
+cd frontend
+npm install axios react-router-dom jwt-decode
+npm run dev
+```
 
