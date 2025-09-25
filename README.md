@@ -10,6 +10,11 @@ python3 -m venv env
 source env/bin/activate 	
 ```
 
+### To Exit Virtual Environment
+```shell
+deactivate
+```
+
 ### Create requirements.txt file at root
 
 ```text
